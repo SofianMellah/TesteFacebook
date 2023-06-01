@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-01T13:56:52 CEST" name="Default suite" finished-at="2023-06-01T13:56:58 CEST" duration-ms="5963">
+    <groups>
+    </groups>
+    <test started-at="2023-06-01T13:56:52 CEST" name="Default test" finished-at="2023-06-01T13:56:58 CEST" duration-ms="5963">
+      <class name="com.formation.www.exo2.Test1">
+        <test-method signature="testPays()[pri:0, instance:com.formation.www.exo2.Test1@3c73951]" started-at="2023-06-01T13:56:52 CEST" name="testPays" finished-at="2023-06-01T13:56:58 CEST" duration-ms="5932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPays -->
+      </class> <!-- com.formation.www.exo2.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
